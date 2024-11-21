@@ -1,0 +1,100 @@
+Movie_Genre,Music_Genre,User_Age,User_Gender,Hours_Movie_Week,Hours_Music _Week,Education_Level,Cigarettes,Sleep_Type
+Comedy ,Blues,34,Female ,10,20,Masters,Yes,Early Bird 
+Romance ,Rock,24,Female ,2,18,Associates Degree ,No,Night Owl 
+Detective ,Hip Hop ,25,Female ,14,20,Bachelors Degree,Yes,Early Bird 
+Horror ,R&B,29,Male,33,10,Masters,No,Early Bird 
+Horror ,RockNRoll,30,Male,3,16,Phd,Yes,Night Owl 
+Detective ,Lofi,24,Female ,0,6,Associates Degree ,Yes,Night Owl 
+SciFi,Disco ,32,Female ,23,17,Masters,No,Early Bird 
+Musical ,Dubstep ,33,Male,13,21,Highschool,Yes,Early Bird 
+Detective ,EDM ,45,Male,9,24,GED,Yes,Night Owl 
+Musical ,Funk ,60,Female ,31,20,Associates Degree ,Yes,Early Bird 
+SciFi,Classical ,54,Male,4,12,GED,No,Early Bird 
+Detective ,Punk ,21,Male,16,20,Highschool,Yes,Early Bird 
+Comedy ,Folk ,20,Male,5,10,Associates Degree ,Yes,Early Bird 
+Romance ,Lofi,23,Male,12,9,Associates Degree ,Yes,Night Owl 
+Musical ,Classical ,23,Female ,9,18,Highschool,No,Early Bird 
+Horror ,Lofi,19,Male,8,17,Associates Degree ,Yes,Early Bird 
+Detective ,Folk ,18,Female ,18,10,GED,Yes,Night Owl 
+Horror ,Classical ,24,Male,15,16,Associates Degree ,Yes,Night Owl 
+Musical ,Disco ,25,Female ,9,18,GED,No,Early Bird 
+Musical ,Jazz,24,Male,11,17,Bachelors Degree,Yes,Early Bird 
+Detective ,Classical ,25,Male,20,20,Associates Degree ,No,Night Owl 
+Detective ,Lofi,24,Male,15,20,Bachelors Degree,No,Night Owl 
+Drama ,Rock,32,Female ,9,10,GED,Yes,Early Bird 
+Detective ,Rock,24,Female ,10,16,Bachelors Degree,Yes,Night Owl 
+Drama ,Rap,27,Male,20,18,Masters,Yes,Early Bird 
+Horror ,Blues,25,Male,15,17,Bachelors Degree,No,Night Owl 
+Detective ,Lofi,37,Male,20,18,Bachelors Degree,No,Early Bird 
+Romance ,Rock,33,Female ,10,17,Masters,Yes,Night Owl 
+Horror ,RockNRoll,24,Male,20,30,Masters,Yes,Early Bird 
+Drama ,Lofi,27,Female ,8,20,Highschool,Yes,Night Owl 
+Horror ,Blues,22,Female ,16,20,Highschool,Yes,Early Bird 
+Romance ,Lofi,22,Female ,5,20,Masters,No,Early Bird 
+Drama ,RockNRoll,21,Male,9,16,Highschool,Yes,Night Owl 
+Romance ,Rap,23,Male,22,18,Bachelors Degree,Yes,Early Bird 
+Romance ,Jazz,24,Male,20,17,Masters,Yes,Night Owl 
+Horror ,Rap,21,Male,15,16,Highschool,No,Early Bird 
+Indie,Blues,34,Male,9,33,Masters,Yes,Night Owl 
+Musical ,Jazz,34,Female ,17,20,Highschool,Yes,Night Owl 
+Crime ,Rap,25,Female ,22,33,Highschool,Yes,Early Bird 
+Biopic,Blues,24,Male,15,36,Masters,No,Night Owl 
+Biopic,Hip Hop ,25,Male,11,9,Bachelors Degree,No,Night Owl 
+Romance ,Hip Hop ,24,Female ,25,34,Highschool,Yes,Early Bird 
+Drama ,Metal,26,Male,10,15,Highschool,No,Night Owl 
+Drama ,Lofi,27,Male,24,23,Bachelors Degree,Yes,Night Owl 
+Fantasy ,Blues,24,Male,11,16,Bachelors Degree,No,Early Bird 
+Romance ,Blues,33,Male,10,20,Masters,No,Night Owl 
+Drama ,Jazz,24,Female ,24,23,Bachelors Degree,Yes,Night Owl 
+Fantasy ,Rap,36,Female ,11,14,Masters,No,Night Owl 
+Biopic,Rock,37,Female ,10,12,Bachelors Degree,Yes,Night Owl 
+Biopic,Jazz,25,Male,15,16,Bachelors Degree,No,Night Owl 
+Adventure,Rap,33,Male,13,9,Phd,No,Early Bird 
+Adventure,Rock,27,Male,10,16,Phd,No,Night Owl 
+Mystery ,Jazz,33,Female ,13,15,Bachelors Degree,Yes,Night Owl 
+Adventure,Rap,26,Female ,22,9,GED,Yes,Early Bird 
+SciFi,Rock,21,Female ,25,20,GED,Yes,Early Bird 
+Animation,Rock,25,Male,17,23,Bachelors Degree,No,Night Owl 
+Romance ,Hip Hop ,27,Male,17,12,Phd,No,Early Bird 
+Historical ,R&B,28,Female ,22,20,GED,Yes,Early Bird 
+Indie,RockNRoll,34,Female ,8,23,Phd,Yes,Early Bird 
+Adventure,Rap,32,Male,13,9,Masters,No,Night Owl 
+Romance ,EDM ,25,Female ,22,9,Bachelors Degree,Yes,Early Bird 
+Fantasy ,Hip Hop ,24,Male,15,23,Highschool,Yes,Night Owl 
+Mystery ,R&B,22,Male,22,5,Masters,No,Early Bird 
+Romance ,RockNRoll,37,Female ,13,12,Masters,Yes,Night Owl 
+Documentary,EDM ,22,Male,25,10,Bachelors Degree,No,Early Bird 
+Adventure,Hip Hop ,21,Male,17,23,Bachelors Degree,No,Night Owl 
+Animation,R&B,23,Male,18,20,Highschool,Yes,Early Bird 
+Adventure,RockNRoll,24,Female ,25,12,Masters,Yes,Early Bird 
+Adventure,EDM ,32,Female ,15,23,Masters,Yes,Night Owl 
+Fantasy ,EDM ,33,Female ,8,20,Highschool,No,Night Owl 
+Animation,R&B,45,Male,13,2,Highschool,No,Early Bird 
+SciFi,Metal,33,Male,15,16,Masters,Yes,Early Bird 
+Adventure,EDM ,45,Female ,17,5,Bachelors Degree,Yes,Night Owl 
+Animation,R&B,45,Female ,25,6,Phd,Yes,Early Bird 
+Mystery ,RockNRoll,30,Female ,25,20,Masters,No,Night Owl 
+Mystery ,Metal,24,Female ,11,17,Bachelors Degree,Yes,Night Owl 
+Romance ,EDM ,32,Male,24,16,Bachelors Degree,No,Night Owl 
+SciFi,Metal,33,Male,13,18,Masters,Yes,Night Owl 
+Adventure,RockNRoll,44,Female ,18,20,Associates Degree ,Yes,Night Owl 
+Mystery ,Dubstep ,23,Male,11,36,Phd,No,Early Bird 
+Adventure,Dubstep ,24,Male,13,22,Masters,No,Early Bird 
+SciFi,EDM ,25,Female ,25,40,Associates Degree ,Yes,Night Owl 
+Animation,Blues,24,Female ,13,15,Associates Degree ,Yes,Night Owl 
+SciFi,Punk ,23,Female ,24,20,GED,Yes,Early Bird 
+Animation,Metal,25,Male,8,20,Phd,No,Early Bird 
+Detective ,EDM ,32,Male,11,20,GED,No,Night Owl 
+Comedy ,Dubstep ,24,Female ,16,15,Masters,No,Early Bird 
+Historical ,Blues,24,Male,10,10,GED,Yes,Night Owl 
+Comedy ,Rap,26,Female ,23,10,Phd,Yes,Early Bird 
+Historical ,Punk ,29,Male,17,41,Masters,No,Night Owl 
+Documentary,Rap,27,Female ,25,15,Associates Degree ,Yes,Early Bird 
+Historical ,Punk ,21,Female ,22,23,Bachelors Degree,No,Night Owl 
+Historical ,Rap,31,Female ,8,10,Bachelors Degree,No,Night Owl 
+Documentary,Punk ,22,Male,25,22,Masters,Yes,Early Bird 
+SciFi,Blues,24,Female ,16,40,Phd,Yes,Night Owl 
+SciFi,Metal,28,Male,14,15,Associates Degree ,No,Night Owl 
+Comedy ,Dubstep ,30,Female ,10,23,Associates Degree ,No,Early Bird 
+Comedy ,Metal,23,Male,23,10,Masters,Yes,Night Owl 
+Romance ,Dubstep ,24,Female ,25,10,Phd,Yes,Night Owl 
